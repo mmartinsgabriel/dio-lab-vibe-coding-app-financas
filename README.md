@@ -1,4 +1,5 @@
 💸 App de Organização de Finanças Pessoais com Vibe Coding
+
 📖 Descrição
 Este projeto foi desenvolvido como parte do desafio da DIO para aplicar o conceito de Vibe Coding.
 A proposta é criar um App de Organização de Finanças Pessoais que funcione por meio de conversas naturais, sem formulários complexos, inspirado em especialistas da área de Finanças Pessoais.
